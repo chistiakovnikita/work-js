@@ -1,1 +1,1 @@
-# work-js
+# mentoring-simple-webpack-starter
